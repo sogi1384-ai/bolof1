@@ -5,7 +5,7 @@ import os
 from flask import Flask
 from threading import Thread
 
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8845512776:AAHDjlsoXLmdmi9TVRYc5DOjrvj1hxIYzow"
 bot = telebot.TeleBot(BOT_TOKEN)
 games = {}
 
